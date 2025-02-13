@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/prototbh/prototbh/refs/heads/main/banner.png" alt="Banner Image" width="100%" />
+<img src="https://raw.githubusercontent.com/prototbh/prototbh/refs/heads/main/banner.png" alt="Banner Image" width="100%" height="200" />
 
 <h2 align="left">Hello, I am Elijah or Prototbh.</h2>
 
